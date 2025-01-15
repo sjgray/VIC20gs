@@ -9,6 +9,8 @@ This design has not been verified, breadboarded or routed so use at own risk. It
 released as-is and may contain errors.
 
 Project webpage is loacated at:
-http://www.6502.org/users/sjgray/projects/vic20r/index.html
+
+http://www.cbmsteve.ca
+http://www.cbmsteve.ca/vic20r/index.html
 
 Steve
